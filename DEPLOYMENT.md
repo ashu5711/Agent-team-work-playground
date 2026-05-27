@@ -28,18 +28,23 @@ Here is a template you can use for your LinkedIn post:
 **Text:**
 > Ever wondered what it would be like to have a dedicated team of AI Agents reviewing your code in real-time? 🤖👀
 >
-> I just built a live playground showcasing a multi-agent system architecture where different specialized AI models handle different aspects of the codebase:
+> I just built a live playground showcasing a multi-agent system architecture where different specialized AI models handle different aspects of the codebase and communicate their findings:
 > 🛠️ **SDLC Architect** - Catches structural flaws
 > 📊 **Data Pipeline Expert** - Optimizes SQL and ETLs
 > 🎧 **Support Engineer** - Ensures observability and logging
 > 📝 **Content Strategist** - Reviews localization and copy
 > 
-> You can try the simulation out yourself here: [Link to Vercel App]
+> In a true agentic workflow, these specialists don't work in isolation—they talk to each other to form a cohesive review!
+>
+> 💡 *Note on constraints:* This live playground uses a **Simulation Mode** (mock responses) instead of a real LLM. This prevents unwanted token usage and massive API bills from public traffic, but the UI is completely ready to plug into any backend Agentic AI framework!
+> 
+> You can try the simulation out yourself here: https://code-review-playground.vercel.app
 > 
 > I also open-sourced the UI so you can see how to build glassmorphism interactions with Next.js and Tailwind CSS! 
-> Check out the repo: [Link to GitHub]
+> Check out the repo: https://github.com/ashu5711/Agent-team-work-playground
 > 
-> \#AI #Nextjs #SoftwareEngineering #CodeReview #WebDevelopment
+> \#AI #Nextjs #SoftwareEngineering #Agentic #AgenticTeamWork #CodeReview #WebDevelopment
 
 **Media:**
-Record a quick 15-second screen recording of you clicking through the different agents and watching them "type" out their reviews. Video performs much better on LinkedIn than plain links!
+> 🎥 **[INSERT YOUR SCREEN RECORDING HERE]** 
+> Record a quick 15-second screen recording of you clicking through the different agents and watching them "type" out their reviews. Video performs much better on LinkedIn than plain links!
