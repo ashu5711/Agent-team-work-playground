@@ -5,7 +5,7 @@ You now have a fully functioning, highly-polished mock of your "Code Review Agen
 ## Step 1: Push to GitHub
 1. Open your terminal and navigate to the project folder:
    `cd /Users/ashutoshshankar/Desktop/AI/Playground/code-review-playground`
-2. Next.js automatically initialized a local git repository for you.
+2. The project automatically initialized a local git repository for you.
 3. Go to [GitHub](https://github.com/new) and create a new repository (e.g., `code-review-playground`).
 4. Copy the commands from GitHub under "...or push an existing repository from the command line" and run them in your terminal. For example:
    ```bash
@@ -40,10 +40,10 @@ Here is a template you can use for your LinkedIn post:
 > 
 > You can try the simulation out yourself here: https://code-review-playground.vercel.app
 > 
-> I also open-sourced the UI so you can see how to build glassmorphism interactions with Next.js and Tailwind CSS! 
+> I also open-sourced the UI so you can see how to build glassmorphism interactions with React.js and Tailwind CSS! 
 > Check out the repo: https://github.com/ashu5711/Agent-team-work-playground
 > 
-> \#AI #Nextjs #SoftwareEngineering #Agentic #AgenticTeamWork #CodeReview #WebDevelopment
+> \#AI #Reactjs #SoftwareEngineering #Agentic #AgenticTeamWork #CodeReview #WebDevelopment
 
 **Media:**
 > 🎥 **[INSERT YOUR SCREEN RECORDING HERE]** 
